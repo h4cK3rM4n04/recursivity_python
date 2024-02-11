@@ -1,0 +1,23 @@
+Bien sûr, voici quelques exercices de programmation qui impliquent des fonctions récursives. Ils varient en complexité, ce qui vous permettra de vous exercer à différents niveaux :
+
+1. **Factorielle récursive :** Écrivez une fonction récursive pour calculer la factorielle d'un nombre entier positif.
+
+2. **Fibonacci récursif :** Écrivez une fonction récursive pour calculer le n-ème nombre de la séquence de Fibonacci.
+
+3. **Somme des chiffres récursive :** Écrivez une fonction récursive pour calculer la somme des chiffres d'un nombre.
+
+4. **Palindrome récursif :** Écrivez une fonction récursive pour déterminer si une chaîne de caractères est un palindrome (c'est-à-dire qu'elle se lit de la même manière de gauche à droite et de droite à gauche).
+
+5. **Exponentiation récursive :** Écrivez une fonction récursive pour calculer la puissance d'un nombre en utilisant l'exponentiation rapide.
+
+6. **Tours de Hanoï :** Écrivez une fonction récursive pour résoudre le problème des Tours de Hanoï pour un nombre donné de disques.
+
+7. **Suite de Collatz :** Écrivez une fonction récursive pour générer la suite de Collatz pour un nombre donné, en partant d'un nombre n et en s'arrêtant lorsque le nombre atteint 1.
+
+8. **Sélection de sous-ensembles :** Écrivez une fonction récursive pour générer tous les sous-ensembles d'un ensemble donné.
+
+9. **Recherche binaire récursive :** Écrivez une fonction récursive pour effectuer une recherche binaire sur un tableau trié.
+
+10. **Combinaisons de parenthèses :** Écrivez une fonction récursive pour générer toutes les combinaisons valides de parenthèses pour un nombre donné de paires de parenthèses.
+
+Ces exercices couvrent une gamme de concepts de programmation récursive et peuvent vous aider à renforcer vos compétences en programmation. N'hésitez pas à choisir ceux qui vous intéressent le plus et à les résoudre à votre rythme. Si vous avez des questions spécifiques sur l'un de ces exercices, n'hésitez pas à demander des conseils ou de l'aide.
